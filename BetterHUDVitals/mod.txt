@@ -1,5 +1,5 @@
 [mod]
-name="Better HUD Vitals"
+name="BetterHUDVitals"
 id="better-hud-vitals"
 version="0.1.0"
 
