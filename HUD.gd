@@ -5,7 +5,7 @@ extends "res://Scripts/HUD.gd"
 @onready var vitals_elements : BoxContainer = $Stats / Vitals / Elements
 
 const vitals_icons = {"Health": "Icon_Health", "Energy": "Icon_Energy", "Hydration": "Icon_Hydration",
-					"Mental": "Icon_Rupture", "Temperature": "Icon_Temperature"}
+					"Mental": "Icon_Mental", "Temperature": "Icon_Temperature"}
 
 
 func _ready() -> void:
