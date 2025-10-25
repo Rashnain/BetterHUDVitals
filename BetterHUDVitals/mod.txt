@@ -10,4 +10,4 @@ version="0.1.0"
 "res://UI/Sprites/Icon_Mental.png"="res://mods/BetterHUDVitals/Icon_Mental.png"
 
 [updates]
-modworkshop=0
+modworkshop=54216
